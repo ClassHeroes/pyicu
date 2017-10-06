@@ -11,7 +11,7 @@ include format.h
 include idna.h
 include iterators.h
 include layoutengine.h
-include locale.h
+include locale2.h
 include macros.h
 include normalizer.h
 include numberformat.h

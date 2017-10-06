@@ -21,8 +21,8 @@
  * ====================================================================
  */
 
-#ifndef _locale_h
-#define _locale_h
+#ifndef _locale2_h
+#define _locale2_h
 
 extern PyTypeObject LocaleType_;
 
@@ -32,4 +32,4 @@ PyObject *wrap_Locale(const Locale &locale);
 void _init_locale(PyObject *m);
 
 
-#endif /* _locale_h */
+#endif /* _locale2_h */
